@@ -4,6 +4,20 @@ Este proyecto implementa un robot móvil que navega de forma autónoma en una ar
 
 ---
 
+##  Integrantes
+
+Javiera Cabrera
+
+Luciano Cubillos
+
+Sebastián Jeria
+
+Vicente Montiel
+
+Nidia Bugueño
+
+---
+
 ##  Estructura del Proyecto
 
 - `controllers/`: contiene el código C del controlador del robot.
